@@ -63,5 +63,6 @@
 ## Nhóm tác giả
 
 * 21521916 - Đỗ Khánh Đan
-* 2152
-* ...
+* 21521201 - Nguyễn Đỗ Đức Nguyên
+* 21522326 - Trần Thanh Mẫn
+* 21521183 - Nguyễn Thành Nghĩa
