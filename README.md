@@ -42,11 +42,8 @@
 ## Cách chạy code
 
 1. Cài đặt các thư viện cần thiết.
-2. Chạy file `data_processing.py` để tiền xử lý dữ liệu.
-3. Chạy file `data_visualization.py` để trực quan hóa dữ liệu.
-4. Chạy file `network_construction.py` để xây dựng mạng xã hội.
-5. Chạy file `network_analysis.py` để phân tích mạng xã hội.
-6. Chạy file `prediction_models.py` để xây dựng và đánh giá mô hình dự đoán.
+2. Chạy file `data_visualization.py` để xem các tiền xử lý và trực quan hóa dữ liệu.
+3. Chạy file `final.py` để xây dựng mạng xã hội đánh giá mô hình dự đoán.
 
 ## Kết quả
 
@@ -62,6 +59,8 @@
 
 ## Nhóm tác giả
 
-* 21521916 - Đỗ Khánh Đan
-* 2152
-* ...
+Đỗ Khánh Đan		-	21521916
+Trần Thanh Mẫn		-	21522326
+Nguyễn Thành Nghĩa	-	21521183
+Nguyễn Đỗ Đức Nguyên 	-	21521201
+
